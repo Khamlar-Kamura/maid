@@ -1,0 +1,12 @@
+build/
+.dart_tool/
+node_modules/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.idea/
+android/.gradle/
+*.iml
+*.lock
+
